@@ -11,13 +11,13 @@ svg {
   border: 1px solid #aaa;
 }
 
-.person rect {
+.dog rect {
   fill: #fff;
   stroke: steelblue;
   stroke-width: 1px;
 }
 
-.person {
+.dog {
   font: 14px sans-serif;
   cursor: pointer;
 }
@@ -75,14 +75,14 @@ var tree = d3.layout.tree()
   
   // Tell d3 what the child nodes are. Remember, we're drawing
   // a tree so the ancestors are child nodes.
-  .children(function(person){
+  .children(function(dog){
     
-    // If the person is collapsed then tell d3
+    // If the dog is collapsed then tell d3
     // that they don't have any ancestors.
-    if(person.collapsed){
+    if(dog.collapsed){
       return;
     } else {
-      return person.children;
+      return dog.children;
     }
   });
 
@@ -111,20 +111,20 @@ function draw(){
       links = tree.links(nodes);
 
   // Update nodes    
-  var node = svg.selectAll("g.person")
+  var node = svg.selectAll("g.dog")
       
       // The function we are passing provides d3 with an id
       // so that it can track when data is being added and removed.
       // This is not necessary if the tree will only be drawn once
       // as in the basic example.
-      .data(nodes, function(person){ return person.id; });
+      .data(nodes, function(dog){ return dog.index; });
       
   // Add any new nodes
   var nodeEnter = node.enter().append("g")
-      .attr("class", "person")
-      .on('click', togglePerson);
+      .attr("class", "dog")
+      .on('click', toggleDog);
 
-  // Draw the rectangle person boxes
+  // Draw the rectangle dog boxes
   nodeEnter.append("rect")
       .attr({
         x: -(boxWidth/2),
@@ -133,14 +133,14 @@ function draw(){
         height: boxHeight
       });
 
-  // Draw the person's name and position it inside the box
+  // Draw the dog's name and position it inside the box
   nodeEnter.append("text")
       .attr("dx", -(boxWidth/2) + 10)
       .attr("dy", 0)
       .attr("text-anchor", "start")
       .attr('class', 'name')
       .text(function(d) { 
-        return d.name; 
+        return d.regName; 
       });
   
   // Update the position of both old and new nodes
@@ -156,7 +156,7 @@ function draw(){
       // so that it can track when data is being added and removed.
       // This is not necessary if the tree will only be drawn once
       // as in the basic example.
-      .data(links, function(d){ return d.target.id; });
+      .data(links, function(d){ return d.target.index; });
   
   // Add new links    
   link.enter().append("path")
@@ -171,31 +171,31 @@ function draw(){
 }
 
 /**
- * Update a person's state when they are clicked.
+ * Update a dog's state when they are clicked.
  */
-function togglePerson(person){
-  if(person.collapsed){
-    person.collapsed = false;
+function toggleDog(dog){
+  if(dog.collapsed){
+    dog.collapsed = false;
   } else {
-    collapse(person);
+    collapse(dog);
   }
   draw();
 }
 
 /**
- * Collapse person (hide their ancestors). We recursively
- * collapse the ancestors so that when the person is
+ * Collapse dog (hide their ancestors). We recursively
+ * collapse the ancestors so that when the dog is
  * expanded it will only reveal one generation. If we don't
  * recursively collapse the ancestors then when
- * the person is clicked on again to expand, all ancestors
+ * the dog is clicked on again to expand, all ancestors
  * that were previously showing will be shown again.
  * If you want that behavior then just remove the recursion
  * by removing the if block.
  */
-function collapse(person){
-  person.collapsed = true;
-  if(person.children){
-    person.children.forEach(collapse);
+function collapse(dog){
+  dog.collapsed = true;
+  if(dog.children){
+    dog.children.forEach(collapse);
   }
 }
     
@@ -203,7 +203,7 @@ function collapse(person){
  * Custom path function that creates straight connecting lines.
  * Calculate start and end position of links.
  * Instead of drawing to the center of the node,
- * draw to the border of the person profile box.
+ * draw to the border of the dog profile box.
  * That way drawing order doesn't matter. In other
  * words, if we draw to the center of the node
  * then we have to draw the links first and the
