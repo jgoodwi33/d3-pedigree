@@ -1,0 +1,26 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+devDependencies:
+  chance:
+    specifier: 0.7.5
+    version: 0.7.5
+  minimist:
+    specifier: 1.1.1
+    version: 1.1.1
+
+packages:
+
+  /chance@0.7.5:
+    resolution: {integrity: sha512-8+5vW+S2jNEzTFTsy5axps53rKiP1Mt4bst7LCCd5Z56fftsxwnH3WNZZAEhLuu7VxyqfuBI86pIwixFFn5XbA==}
+    hasBin: true
+    dependencies:
+      minimist: 1.1.1
+    dev: true
+
+  /minimist@1.1.1:
+    resolution: {integrity: sha512-FzcUe2HULkO6NxOnADCRJos39lkw3Uy+i8hpVfHDrBK0fdbTLkeo6LveAY6dEJwoSxwB3z6MyQSOJDRZ6w9kvA==}
+    dev: true
