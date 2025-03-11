@@ -34,13 +34,23 @@ svg {
 <script>
 
 var data;
-
-var boxWidth = 150,
-    boxHeight = 40;
+  var dx = 600;
+  var dy = width / 6;
+  var margin = { top: 70, right: 40, bottom: 50, left: 90 };
+var memberBox = {
+    width: 375,
+    height: 45,
+    marginHeight: 180,
+    marginWidth: 100
+  };
+    var direction = 1;
+  var radius = (dx * 1.0) / 10;
+//var boxWidth = 150,
+  //  boxHeight = 40;
 
 // Setup zoom and pan
 var zoom = d3.behavior.zoom()
-  .scaleExtent([.1,1])
+  .scaleExtent([.1,2])
   .on('zoom', function(){
     svg.attr("transform", "translate(" + d3.event.translate + ") scale(" + d3.event.scale + ")");
   })
@@ -64,8 +74,10 @@ var tree = d3.layout.tree()
   // the size parameter instead then d3 would
   // calculate the separation dynamically to fill
   // the available space.
-  .nodeSize([100, 200])
-  
+    .nodeSize([
+      memberBox.height + memberBox.marginHeight + radius * 2,
+      memberBox.width + memberBox.marginWidth + radius * 2
+    ])
   // By default, cousins are drawn further apart than siblings.
   // By returning the same value in all cases, we draw cousins
   // the same distance apart as siblings.
