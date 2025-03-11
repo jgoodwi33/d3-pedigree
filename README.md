@@ -19,12 +19,12 @@ My requirements were:
 
 ### Examples
 
-* __[Basic](http://justincy.github.io/d3-pedigree-examples/basic.html)__: A basic static pedigree.
-* __[Text Wrap](http://justincy.github.io/d3-pedigree-examples/basic-long-names.html)__: A basic static pedigree with text wrap using [d3plus](https://github.com/alexandersimoes/d3plus).
-* __[Expand and Collapse](http://justincy.github.io/d3-pedigree-examples/expandable.html)__: Click on persons to expand and collapse the tree.
-* __[Smooth Transitions](http://justincy.github.io/d3-pedigree-examples/transitions.html)__: Changes are animated when the tree is expanded or collapsed.
-* __[Ancestors and Descendants](http://justincy.github.io/d3-pedigree-examples/descendants.html)__: Show both ancestors and descendants.
-* __[Ancestors and Descendants - OOP](http://justincy.github.io/d3-pedigree-examples/descendants-oop.html)__: A more sane example of ancestors and descendants using classes.
+* __[Basic](http://jgoodwi33.github.io/d3-pedigree/basic.html)__: A basic static pedigree.
+* __[Text Wrap](http://jgoodwi33.github.io/d3-pedigree/basic-long-names.html)__: A basic static pedigree with text wrap using [d3plus](https://github.com/alexandersimoes/d3plus).
+* __[Expand and Collapse](http://jgoodwi33.github.io/d3-pedigree/expandable.html)__: Click on persons to expand and collapse the tree.
+* __[Smooth Transitions](http://jgoodwi33.github.io/d3-pedigree/transitions.html)__: Changes are animated when the tree is expanded or collapsed.
+* __[Ancestors and Descendants](http://jgoodwi33.github.io/d3-pedigree/descendants.html)__: Show both ancestors and descendants.
+* __[Ancestors and Descendants - OOP](http://jgoodwi33.github.io/d3-pedigree/descendants-oop.html)__: A more sane example of ancestors and descendants using classes.
 
 #### Notes
 
