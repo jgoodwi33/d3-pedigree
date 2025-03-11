@@ -1,0 +1,2433 @@
+{
+	"index": "64",
+	"depth": 0,
+	"kennel": "Goodwin",
+	"regName": "BISS GCHB Belmark Goodwin Mahalo",
+	"name": "Belmark Goodwin Mahalo",
+	"callName": "Mahalo",
+	"sire": "BISS GCH CH Belmark Shakedown ROM",
+	"dam": "CH Belmark Ya Given Me Fever ROM",
+	"color": "Blue Merle",
+	"gender": "Female",
+	"testing": "http://www.goodwinshelties.com/healthtesting/mahalo/mahalotesting.jpg",
+	"ofa": "http://www.goodwinshelties.com/healthtesting/mahalo/mahaloofa.jpg",
+	"img": "http://www.goodwinshelties.com/refphotos/belmarkgoodwinmahalo.jpg",
+	"pedCount": 1,
+	"bgColor": "#D3F2FC",
+	"dup": "FALSE",
+	"depths": [
+		0
+	],
+	"progeny": [
+		"16",
+		"17",
+		"19",
+		"22",
+		"24",
+		"38",
+		"47",
+		"58"
+	],
+	"children": [
+		{
+			"index": "161",
+			"depth": 1,
+			"kennel": "",
+			"regName": "BISS GCH CH Belmark Shakedown ROM",
+			"name": "Belmark Shakedown",
+			"callName": "",
+			"sire": "CH Belmark Lo And Behold ROM ROMC",
+			"dam": "CH Belmark All Shook Up ROM ROMC",
+			"color": "Blue Merle",
+			"gender": "Male",
+			"testing": "none",
+			"ofa": "none",
+			"img": "http://www.goodwinshelties.com/refphotos/belmarkshakedown.jpg",
+			"pedCount": 1,
+			"bgColor": "#D3F2FC",
+			"dup": "FALSE",
+			"depths": [
+				1
+			],
+			"progeny": [
+				"64",
+				"70",
+				"82",
+				"83",
+				"126"
+			],
+			"children": [
+				{
+					"index": "203",
+					"depth": 2,
+					"kennel": "",
+					"regName": "CH Belmark Lo And Behold ROM ROMC",
+					"name": "Belmark Lo And Behold",
+					"callName": "",
+					"sire": "BISS CH Bach Belmark On Canvas CGC",
+					"dam": "Karmix Third Watch",
+					"color": "Bi Black",
+					"gender": "Male",
+					"testing": "none",
+					"ofa": "none",
+					"img": "http://www.goodwinshelties.com/refphotos/belmarkloandbehold.jpg",
+					"pedCount": 2,
+					"bgColor": "#CBFDEA",
+					"dup": "TRUE",
+					"depths": [
+						2,
+						4
+					],
+					"progeny": [
+						"71",
+						"98",
+						"138",
+						"157",
+						"160",
+						"161",
+						"169"
+					],
+					"children": [
+						{
+							"index": "586",
+							"depth": 5,
+							"kennel": "",
+							"regName": "BISS CH Bach Belmark On Canvas CGC",
+							"name": "Bach Belmark On Canvas",
+							"callName": "",
+							"sire": "Brecon Oak Crest Jet Black",
+							"dam": "Skywards Passionate Kisses",
+							"color": "Tri Color",
+							"gender": "Male",
+							"testing": "none",
+							"ofa": "none",
+							"img": "http://www.goodwinshelties.com/refphotos/bachbelmarkoncanvas.jpg",
+							"pedCount": 2,
+							"bgColor": "#AAFEDC",
+							"dup": "TRUE",
+							"depths": [
+								3,
+								5
+							],
+							"progeny": [
+								"203",
+								"252",
+								"267",
+								"309"
+							],
+							"children": [
+								{
+									"index": "793",
+									"depth": 6,
+									"kennel": "",
+									"regName": "Brecon Oak Crest Jet Black",
+									"name": "Brecon Oak Crest Jet Black",
+									"callName": "",
+									"sire": "CH Macdega Deniro ROM",
+									"dam": "Brecon In Basic Black",
+									"color": "Bi Black",
+									"gender": "Male",
+									"testing": "none",
+									"ofa": "none",
+									"img": "http://www.goodwinshelties.com/refphotos/breconoakcrestjetblack.jpg",
+									"pedCount": 2,
+									"bgColor": "#ABFCAD",
+									"dup": "TRUE",
+									"depths": [
+										4,
+										6
+									],
+									"progeny": [
+										"586",
+										"587",
+										"714"
+									],
+									"children": []
+								},
+								{
+									"index": "640",
+									"depth": 6,
+									"kennel": "",
+									"regName": "Skywards Passionate Kisses",
+									"name": "Skywards Passionate Kisses",
+									"callName": "",
+									"sire": "CH Skywards Dreams Of Passion",
+									"dam": "Our Highland Heather",
+									"color": "Blue Merle",
+									"gender": "Female",
+									"testing": "none",
+									"ofa": "none",
+									"img": "http://www.goodwinshelties.com/refphotos/skywardspassionatekisses.jpg",
+									"pedCount": 2,
+									"bgColor": "#CBBAAF",
+									"dup": "TRUE",
+									"depths": [
+										4,
+										6
+									],
+									"progeny": [
+										"586"
+									],
+									"children": []
+								}
+							]
+						},
+						{
+							"index": "250",
+							"depth": 5,
+							"kennel": "",
+							"regName": "Karmix Third Watch",
+							"name": "Karmix Third Watch",
+							"callName": "",
+							"sire": "CH Willow Coves Bluesman",
+							"dam": "Kyrie Drops Of Jupiter",
+							"color": "Tri Color",
+							"gender": "Female",
+							"testing": "none",
+							"ofa": "none",
+							"img": "http://www.goodwinshelties.com/refphotos/karmixthirdwatch.jpg",
+							"pedCount": 2,
+							"bgColor": "#EADFFB",
+							"dup": "TRUE",
+							"depths": [
+								3,
+								5
+							],
+							"progeny": [
+								"203"
+							],
+							"children": [
+								{
+									"index": "319",
+									"depth": 6,
+									"kennel": "",
+									"regName": "CH Willow Coves Bluesman",
+									"name": "Willow Coves Bluesman",
+									"callName": "",
+									"sire": "BIS NBISS BISS CH Shadow Hills Air Force One OA OAJ",
+									"dam": "Willow Coves Revelation",
+									"color": "Bi Blue",
+									"gender": "Male",
+									"testing": "none",
+									"ofa": "none",
+									"img": "http://www.goodwinshelties.com/refphotos/willowcovesbluesman.jpg",
+									"pedCount": 2,
+									"bgColor": "#FBDFFC",
+									"dup": "TRUE",
+									"depths": [
+										4,
+										6
+									],
+									"progeny": [
+										"219",
+										"227",
+										"232",
+										"250",
+										"256"
+									],
+									"children": []
+								},
+								{
+									"index": "265",
+									"depth": 6,
+									"kennel": "",
+									"regName": "Kyrie Drops Of Jupiter",
+									"name": "Kyrie Drops Of Jupiter",
+									"callName": "",
+									"sire": "CH Kyrie Chasing History",
+									"dam": "Odyssey Among The Clouds",
+									"color": "Tri Color",
+									"gender": "Female",
+									"testing": "none",
+									"ofa": "none",
+									"img": "http://www.goodwinshelties.com/refphotos/kyriedropsofjupiter.jpg",
+									"pedCount": 2,
+									"bgColor": "#FFDFCB",
+									"dup": "TRUE",
+									"depths": [
+										4,
+										6
+									],
+									"progeny": [
+										"250"
+									],
+									"children": []
+								}
+							]
+						}
+					]
+				},
+				{
+					"index": "313",
+					"depth": 2,
+					"kennel": "",
+					"regName": "CH Belmark All Shook Up ROM ROMC",
+					"name": "Belmark All Shook Up",
+					"callName": "",
+					"sire": "CH Oakcrest Kick In The Grass",
+					"dam": "Belmark Tangled Up In Blue",
+					"color": "Blue Merle",
+					"gender": "Female",
+					"testing": "none",
+					"ofa": "none",
+					"img": "http://www.goodwinshelties.com/refphotos/belmarkallshookup.jpg",
+					"pedCount": 1,
+					"bgColor": "#D3F2FC",
+					"dup": "FALSE",
+					"depths": [
+						2
+					],
+					"progeny": [
+						"161"
+					],
+					"children": [
+						{
+							"index": "660",
+							"depth": 3,
+							"kennel": "",
+							"regName": "CH Oakcrest Kick In The Grass",
+							"name": "Oakcrest Kick In The Grass",
+							"callName": "",
+							"sire": "CH Tall Timber Tom Terrific",
+							"dam": "Oak Crests Black Brat",
+							"color": "Tri Color",
+							"gender": "Male",
+							"testing": "none",
+							"ofa": "none",
+							"img": "http://www.goodwinshelties.com/refphotos/oakcrestkickinthegrass.jpg",
+							"pedCount": 1,
+							"bgColor": "#D3F2FC",
+							"dup": "FALSE",
+							"depths": [
+								3
+							],
+							"progeny": [
+								"313"
+							],
+							"children": [
+								{
+									"index": "795",
+									"depth": 4,
+									"kennel": "",
+									"regName": "CH Tall Timber Tom Terrific",
+									"name": "Tall Timber Tom Terrific",
+									"callName": "",
+									"sire": "CH Tall Timber Far Out Frisco ROM ROMC",
+									"dam": "Tall Timber Barefoot Contessa",
+									"color": "Blue Merle",
+									"gender": "Male",
+									"testing": "none",
+									"ofa": "none",
+									"img": "http://www.goodwinshelties.com/refphotos/talltimbertomterrific.jpg",
+									"pedCount": 2,
+									"bgColor": "#EABCFE",
+									"dup": "TRUE",
+									"depths": [
+										4,
+										6
+									],
+									"progeny": [
+										"609",
+										"638",
+										"660",
+										"719"
+									],
+									"children": []
+								},
+								{
+									"index": "714",
+									"depth": 4,
+									"kennel": "",
+									"regName": "Oak Crests Black Brat",
+									"name": "Oak Crests Black Brat",
+									"callName": "",
+									"sire": "Brecon Oak Crest Jet Black",
+									"dam": "Oak Crest Vision In Blue",
+									"color": "Bi Black",
+									"gender": "Female",
+									"testing": "none",
+									"ofa": "none",
+									"img": "http://www.goodwinshelties.com/refphotos/oakcrestsblackbrat.jpg",
+									"pedCount": 2,
+									"bgColor": "#DCDAEA",
+									"dup": "TRUE",
+									"depths": [
+										4,
+										6
+									],
+									"progeny": [
+										"609",
+										"638",
+										"660"
+									],
+									"children": []
+								}
+							]
+						},
+						{
+							"index": "516",
+							"depth": 3,
+							"kennel": "",
+							"regName": "Belmark Tangled Up In Blue",
+							"name": "Belmark Tangled Up In Blue",
+							"callName": "",
+							"sire": "BISS CH Belmark Maverick",
+							"dam": "Bach Pandemonium",
+							"color": "Blue Merle",
+							"gender": "Female",
+							"testing": "none",
+							"ofa": "none",
+							"img": "http://www.goodwinshelties.com/refphotos/belmarktangledupinblue.jpg",
+							"pedCount": 1,
+							"bgColor": "#D3F2FC",
+							"dup": "FALSE",
+							"depths": [
+								3
+							],
+							"progeny": [
+								"313"
+							],
+							"children": [
+								{
+									"index": "742",
+									"depth": 4,
+									"kennel": "",
+									"regName": "BISS CH Belmark Maverick",
+									"name": "Belmark Maverick",
+									"callName": "",
+									"sire": "CH Clouddawn Cros' Crk Heritage",
+									"dam": "Belmark On Wings of Silk",
+									"color": "Blue Merle",
+									"gender": "Male",
+									"testing": "none",
+									"ofa": "none",
+									"img": "http://www.goodwinshelties.com/refphotos/belmarkmaverick.jpg",
+									"pedCount": 1,
+									"bgColor": "#D3F2FC",
+									"dup": "FALSE",
+									"depths": [
+										4
+									],
+									"progeny": [
+										"515",
+										"516",
+										"517",
+										"659"
+									],
+									"children": []
+								},
+								{
+									"index": "591",
+									"depth": 4,
+									"kennel": "",
+									"regName": "Bach Pandemonium",
+									"name": "Bach Pandemonium",
+									"callName": "",
+									"sire": "CH Akirenes Aramis Bi Barkley ROM ROMC",
+									"dam": "Skywards Only In My Dreams",
+									"color": "Bi Black",
+									"gender": "Female",
+									"testing": "none",
+									"ofa": "none",
+									"img": "http://www.goodwinshelties.com/refphotos/bachpandemonium.jpg",
+									"pedCount": 1,
+									"bgColor": "#D3F2FC",
+									"dup": "FALSE",
+									"depths": [
+										4
+									],
+									"progeny": [
+										"516"
+									],
+									"children": []
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"index": "107",
+			"depth": 1,
+			"kennel": "",
+			"regName": "CH Belmark Ya Given Me Fever ROM",
+			"name": "Belmark Ya Given Me Fever",
+			"callName": "",
+			"sire": "BIS NBISS MBISS GCHP CH Jesstar Nirvana CC ROM",
+			"dam": "CH Felicity Jamaican Me Crazy",
+			"color": "Bi Black",
+			"gender": "Female",
+			"testing": "none",
+			"ofa": "none",
+			"img": "http://www.goodwinshelties.com/refphotos/belmarkyagivenmefever.jpg",
+			"pedCount": 1,
+			"bgColor": "#D3F2FC",
+			"dup": "FALSE",
+			"depths": [
+				1
+			],
+			"progeny": [
+				"64",
+				"70",
+				"71",
+				"82",
+				"83"
+			],
+			"children": [
+				{
+					"index": "158",
+					"depth": 2,
+					"kennel": "",
+					"regName": "BIS NBISS MBISS GCHP CH Jesstar Nirvana CC ROM",
+					"name": "Jesstar Nirvana",
+					"callName": "",
+					"sire": "MBISS GCHB CH Rosmoor Protocol ROM ROMC",
+					"dam": "BISS GCH CH Jesstar Astoria ROM",
+					"color": "Tri Color",
+					"gender": "Male",
+					"testing": "none",
+					"ofa": "none",
+					"img": "http://www.goodwinshelties.com/refphotos/jesstarnirvana.jpg",
+					"pedCount": 1,
+					"bgColor": "#D3F2FC",
+					"dup": "FALSE",
+					"depths": [
+						2
+					],
+					"progeny": [
+						"76",
+						"89",
+						"104",
+						"107"
+					],
+					"children": [
+						{
+							"index": "471",
+							"depth": 3,
+							"kennel": "",
+							"regName": "MBISS GCHB CH Rosmoor Protocol ROM ROMC",
+							"name": "Rosmoor Protocol",
+							"callName": "",
+							"sire": "BIS NBISS JCC GCH CH Pop Star SS Of Northern Farm CD ROM ROMC CC",
+							"dam": "BISS CH Rosmoor Rapture II",
+							"color": "Tri Color",
+							"gender": "Male",
+							"testing": "none",
+							"ofa": "none",
+							"img": "http://www.goodwinshelties.com/refphotos/rosmoorprotocol.jpg",
+							"pedCount": 1,
+							"bgColor": "#D3F2FC",
+							"dup": "FALSE",
+							"depths": [
+								3
+							],
+							"progeny": [
+								"48",
+								"100",
+								"158",
+								"224"
+							],
+							"children": [
+								{
+									"index": "544",
+									"depth": 4,
+									"kennel": "",
+									"regName": "BIS NBISS JCC GCH CH Pop Star SS Of Northern Farm CD ROM ROMC CC",
+									"name": "Pop Star SS Of Northern Farm",
+									"callName": "",
+									"sire": "CH Macdega Evergreen",
+									"dam": "JCC GCH CH Magic Mami SS Of Northern Farm ADC",
+									"color": "Tri Color",
+									"gender": "Male",
+									"testing": "none",
+									"ofa": "none",
+									"img": "http://www.goodwinshelties.com/refphotos/popstarssofnorthernfarm.jpg",
+									"pedCount": 1,
+									"bgColor": "#D3F2FC",
+									"dup": "FALSE",
+									"depths": [
+										4
+									],
+									"progeny": [
+										"274",
+										"471",
+										"491",
+										"494",
+										"521"
+									],
+									"children": [
+										{
+											"index": "718",
+											"depth": 5,
+											"kennel": "",
+											"regName": "CH Macdega Evergreen",
+											"name": "Macdega Evergreen",
+											"callName": "",
+											"sire": "CH Macdega Candray Cartel",
+											"dam": "BIS CH Macdega Sultana ROM",
+											"color": "Tri Color",
+											"gender": "Male",
+											"testing": "none",
+											"ofa": "none",
+											"img": "http://www.goodwinshelties.com/refphotos/macdegaevergreen.jpg",
+											"pedCount": 1,
+											"bgColor": "#D3F2FC",
+											"dup": "FALSE",
+											"depths": [
+												5
+											],
+											"progeny": [
+												"544"
+											],
+											"children": []
+										},
+										{
+											"index": "635",
+											"depth": 5,
+											"kennel": "",
+											"regName": "JCC GCH CH Magic Mami SS Of Northern Farm ADC",
+											"name": "Magic Mami SS Of Northern Farm",
+											"callName": "",
+											"sire": "CanCH Trevannes Khaffire",
+											"dam": "Romantic Rose Of Hitachi Farm",
+											"color": "Sable",
+											"gender": "Female",
+											"testing": "none",
+											"ofa": "none",
+											"img": "http://www.goodwinshelties.com/refphotos/magicmamissofnorthernfarm.jpg",
+											"pedCount": 1,
+											"bgColor": "#D3F2FC",
+											"dup": "FALSE",
+											"depths": [
+												5
+											],
+											"progeny": [
+												"544"
+											],
+											"children": []
+										}
+									]
+								},
+								{
+									"index": "557",
+									"depth": 4,
+									"kennel": "",
+									"regName": "BISS CH Rosmoor Rapture II",
+									"name": "Rosmoor Rapture II",
+									"callName": "",
+									"sire": "CH Akirenes Aramis Bi Barkley ROM ROMC",
+									"dam": "CH Rosmoor The Epiphany",
+									"color": "Bi Blue",
+									"gender": "Female",
+									"testing": "none",
+									"ofa": "none",
+									"img": "http://www.goodwinshelties.com/refphotos/rosmoorraptureii.jpg",
+									"pedCount": 1,
+									"bgColor": "#D3F2FC",
+									"dup": "FALSE",
+									"depths": [
+										4
+									],
+									"progeny": [
+										"471"
+									],
+									"children": [
+										{
+											"index": "797",
+											"depth": 5,
+											"kennel": "",
+											"regName": "CH Akirenes Aramis Bi Barkley ROM ROMC",
+											"name": "Akirenes Aramis Bi Barkley",
+											"callName": "",
+											"sire": "CH Tall Timber Far Out Frisco ROM ROMC",
+											"dam": "Cameo Black Velvet",
+											"color": "Blue Merle",
+											"gender": "Male",
+											"testing": "none",
+											"ofa": "none",
+											"img": "http://www.goodwinshelties.com/refphotos/akirenesaramisbibarkley.jpg",
+											"pedCount": 3,
+											"bgColor": "#CFCDDE",
+											"dup": "TRUE",
+											"depths": [
+												5,
+												7,
+												6
+											],
+											"progeny": [
+												"553",
+												"557",
+												"591",
+												"627",
+												"685",
+												"687",
+												"689"
+											],
+											"children": [
+												{
+													"index": "880",
+													"depth": 6,
+													"kennel": "",
+													"regName": "CH Tall Timber Far Out Frisco ROM ROMC",
+													"name": "Tall Timber Far Out Frisco",
+													"callName": "",
+													"sire": "CH Banchory Peerless ROM",
+													"dam": "Tall Timber Sierra Tango",
+													"color": "Blue Merle",
+													"gender": "Male",
+													"testing": "none",
+													"ofa": "none",
+													"img": "http://www.goodwinshelties.com/refphotos/talltimberfaroutfrisco.jpg",
+													"pedCount": 1,
+													"bgColor": "#D3F2FC",
+													"dup": "FALSE",
+													"depths": [
+														6
+													],
+													"progeny": [
+														"726",
+														"730",
+														"769",
+														"786",
+														"787",
+														"795",
+														"797"
+													],
+													"children": []
+												},
+												{
+													"index": "944",
+													"depth": 6,
+													"kennel": "",
+													"regName": "Cameo Black Velvet",
+													"name": "Cameo Black Velvet",
+													"callName": "",
+													"sire": "CH Final Notice By Stonewall",
+													"dam": "CH Cameo Love In The First Degree HC",
+													"color": "Bi Black",
+													"gender": "Female",
+													"testing": "none",
+													"ofa": "none",
+													"img": "http://www.goodwinshelties.com/refphotos/cameoblackvelvet.jpg",
+													"pedCount": 1,
+													"bgColor": "#D3F2FC",
+													"dup": "FALSE",
+													"depths": [
+														6
+													],
+													"progeny": [
+														"797"
+													],
+													"children": []
+												}
+											]
+										},
+										{
+											"index": "639",
+											"depth": 5,
+											"kennel": "",
+											"regName": "CH Rosmoor The Epiphany",
+											"name": "Rosmoor The Epiphany",
+											"callName": "",
+											"sire": "BISS CH Rosmoor The Apocalypse ROM",
+											"dam": "CH Rosmoor Renaissance",
+											"color": "Bi Black",
+											"gender": "Female",
+											"testing": "none",
+											"ofa": "none",
+											"img": "http://www.goodwinshelties.com/refphotos/rosmoortheepiphany.jpg",
+											"pedCount": 1,
+											"bgColor": "#D3F2FC",
+											"dup": "FALSE",
+											"depths": [
+												5
+											],
+											"progeny": [
+												"557"
+											],
+											"children": [
+												{
+													"index": "721",
+													"depth": 6,
+													"kennel": "",
+													"regName": "BISS CH Rosmoor The Apocalypse ROM",
+													"name": "Rosmoor The Apocalypse",
+													"callName": "",
+													"sire": "CH Country Lane The Energizer ROM ROMC",
+													"dam": "CH Rosmoor Braecarel Whimsical",
+													"color": "Tri Color",
+													"gender": "Male",
+													"testing": "none",
+													"ofa": "none",
+													"img": "http://www.goodwinshelties.com/refphotos/rosmoortheapocalypse.jpg",
+													"pedCount": 1,
+													"bgColor": "#D3F2FC",
+													"dup": "FALSE",
+													"depths": [
+														6
+													],
+													"progeny": [
+														"639",
+														"647"
+													],
+													"children": [
+														{
+															"index": "767",
+															"depth": 7,
+															"kennel": "",
+															"regName": "CH Country Lane The Energizer ROM ROMC",
+															"name": "Country Lane The Energizer",
+															"callName": "",
+															"sire": "CH Macdega Deniro ROM",
+															"dam": "Macdega Monterey",
+															"color": "Tri Color",
+															"gender": "Male",
+															"testing": "none",
+															"ofa": "none",
+															"img": "http://www.goodwinshelties.com/refphotos/countrylanetheenergizer.jpg",
+															"pedCount": 2,
+															"bgColor": "#BAEDEE",
+															"dup": "TRUE",
+															"depths": [
+																7
+															],
+															"progeny": [
+																"645",
+																"686",
+																"713",
+																"721",
+																"728",
+																"734",
+																"752"
+															],
+															"children": []
+														},
+														{
+															"index": "794",
+															"depth": 7,
+															"kennel": "",
+															"regName": "CH Rosmoor Braecarel Whimsical",
+															"name": "Rosmoor Braecarel Whimsical",
+															"callName": "",
+															"sire": "CH Ashwood Slight Of Hand CD ROM",
+															"dam": "CH Rosmoor Once Again",
+															"color": "Blue Merle",
+															"gender": "Female",
+															"testing": "none",
+															"ofa": "none",
+															"img": "http://www.goodwinshelties.com/refphotos/rosmoorbraecarelwhimsical.jpg",
+															"pedCount": 1,
+															"bgColor": "#D3F2FC",
+															"dup": "FALSE",
+															"depths": [
+																7
+															],
+															"progeny": [
+																"721"
+															],
+															"children": []
+														}
+													]
+												},
+												{
+													"index": "720",
+													"depth": 6,
+													"kennel": "",
+													"regName": "CH Rosmoor Renaissance",
+													"name": "Rosmoor Renaissance",
+													"callName": "",
+													"sire": "CH Starhavens Ralph Lauren",
+													"dam": "Rosmoor Evening Primrose",
+													"color": "Blue Merle",
+													"gender": "Female",
+													"testing": "none",
+													"ofa": "none",
+													"img": "http://www.goodwinshelties.com/refphotos/rosmoorrenaissance.jpg",
+													"pedCount": 1,
+													"bgColor": "#D3F2FC",
+													"dup": "FALSE",
+													"depths": [
+														6
+													],
+													"progeny": [
+														"639"
+													],
+													"children": [
+														{
+															"index": "792",
+															"depth": 7,
+															"kennel": "",
+															"regName": "CH Starhavens Ralph Lauren",
+															"name": "Starhavens Ralph Lauren",
+															"callName": "",
+															"sire": "CanCH Fourwinds After The Fire",
+															"dam": "Timorias Crystalline Dream",
+															"color": "Blue Merle",
+															"gender": "Male",
+															"testing": "none",
+															"ofa": "none",
+															"img": "http://www.goodwinshelties.com/refphotos/starhavensralphlauren.jpg",
+															"pedCount": 1,
+															"bgColor": "#D3F2FC",
+															"dup": "FALSE",
+															"depths": [
+																7
+															],
+															"progeny": [
+																"720"
+															],
+															"children": []
+														},
+														{
+															"index": "913",
+															"depth": 7,
+															"kennel": "",
+															"regName": "Rosmoor Evening Primrose",
+															"name": "Rosmoor Evening Primrose",
+															"callName": "",
+															"sire": "Rosmoor Tradition",
+															"dam": "CH Greenviews Jasmine",
+															"color": "Bi Black",
+															"gender": "Female",
+															"testing": "none",
+															"ofa": "none",
+															"img": "http://www.goodwinshelties.com/refphotos/rosmooreveningprimrose.jpg",
+															"pedCount": 1,
+															"bgColor": "#D3F2FC",
+															"dup": "FALSE",
+															"depths": [
+																7
+															],
+															"progeny": [
+																"720"
+															],
+															"children": []
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"index": "172",
+							"depth": 3,
+							"kennel": "",
+							"regName": "BISS GCH CH Jesstar Astoria ROM",
+							"name": "Jesstar Astoria",
+							"callName": "",
+							"sire": "CH Mystix Enchanted",
+							"dam": "Parays Prada ROM",
+							"color": "Blue Merle",
+							"gender": "Female",
+							"testing": "none",
+							"ofa": "none",
+							"img": "http://www.goodwinshelties.com/refphotos/jesstarastoria.jpg",
+							"pedCount": 1,
+							"bgColor": "#D3F2FC",
+							"dup": "FALSE",
+							"depths": [
+								3
+							],
+							"progeny": [
+								"158"
+							],
+							"children": [
+								{
+									"index": "534",
+									"depth": 4,
+									"kennel": "",
+									"regName": "CH Mystix Enchanted",
+									"name": "Mystix Enchanted",
+									"callName": "",
+									"sire": "CH Mystix Quote Unquote ROM ROMC",
+									"dam": "CH Mystix Bi-Destiny",
+									"color": "Blue Merle",
+									"gender": "Male",
+									"testing": "none",
+									"ofa": "none",
+									"img": "http://www.goodwinshelties.com/refphotos/mystixenchanted.jpg",
+									"pedCount": 1,
+									"bgColor": "#D3F2FC",
+									"dup": "FALSE",
+									"depths": [
+										4
+									],
+									"progeny": [
+										"172"
+									],
+									"children": [
+										{
+											"index": "629",
+											"depth": 5,
+											"kennel": "",
+											"regName": "CH Mystix Quote Unquote ROM ROMC",
+											"name": "Mystix Quote Unquote",
+											"callName": "",
+											"sire": "CH Macdega Asterisk ROM ROMC",
+											"dam": "NBISS CH Woodbridge Mystic Lace",
+											"color": "Blue Merle",
+											"gender": "Male",
+											"testing": "none",
+											"ofa": "none",
+											"img": "http://www.goodwinshelties.com/refphotos/mystixquoteunquote.jpg",
+											"pedCount": 1,
+											"bgColor": "#D3F2FC",
+											"dup": "FALSE",
+											"depths": [
+												5
+											],
+											"progeny": [
+												"533",
+												"534",
+												"560",
+												"569"
+											],
+											"children": [
+												{
+													"index": "752",
+													"depth": 6,
+													"kennel": "",
+													"regName": "CH Macdega Asterisk ROM ROMC",
+													"name": "Macdega Asterisk",
+													"callName": "",
+													"sire": "CH Country Lane The Energizer ROM ROMC",
+													"dam": "CH Macdega Unforgettable",
+													"color": "Blue Merle",
+													"gender": "Male",
+													"testing": "none",
+													"ofa": "none",
+													"img": "http://www.goodwinshelties.com/refphotos/macdegaasterisk.jpg",
+													"pedCount": 1,
+													"bgColor": "#D3F2FC",
+													"dup": "FALSE",
+													"depths": [
+														6
+													],
+													"progeny": [
+														"541",
+														"611",
+														"619",
+														"625",
+														"629",
+														"637",
+														"644",
+														"646",
+														"674",
+														"680",
+														"682"
+													],
+													"children": []
+												},
+												{
+													"index": "1190",
+													"depth": 6,
+													"kennel": "",
+													"regName": "NBISS CH Woodbridge Mystic Lace",
+													"name": "Woodbridge Mystic Lace",
+													"callName": "",
+													"sire": "CH Barwood Cabriole Razors Edge ROM",
+													"dam": "CH Woodbridge Nice And Easy",
+													"color": "Tri Color",
+													"gender": "Female",
+													"testing": "none",
+													"ofa": "none",
+													"img": "http://www.goodwinshelties.com/refphotos/woodbridgemysticlace.jpg",
+													"pedCount": 1,
+													"bgColor": "#D3F2FC",
+													"dup": "FALSE",
+													"depths": [
+														6
+													],
+													"progeny": [
+														"629"
+													],
+													"children": []
+												}
+											]
+										},
+										{
+											"index": "628",
+											"depth": 5,
+											"kennel": "",
+											"regName": "CH Mystix Bi-Destiny",
+											"name": "Mystix Bi-Destiny",
+											"callName": "",
+											"sire": "CH Macdega Glenhart Grand Prix ROM ROMC",
+											"dam": "Mystics Ebony Escapade",
+											"color": "Bi Black",
+											"gender": "Female",
+											"testing": "none",
+											"ofa": "none",
+											"img": "http://www.goodwinshelties.com/refphotos/mystixbidestiny.jpg",
+											"pedCount": 1,
+											"bgColor": "#D3F2FC",
+											"dup": "FALSE",
+											"depths": [
+												5
+											],
+											"progeny": [
+												"534"
+											],
+											"children": [
+												{
+													"index": "932",
+													"depth": 6,
+													"kennel": "",
+													"regName": "CH Macdega Glenhart Grand Prix ROM ROMC",
+													"name": "Macdega Glenhart Grand Prix",
+													"callName": "",
+													"sire": "CH Macdega Maserati ROM",
+													"dam": "Glenhart Ring of Gold",
+													"color": "Sable",
+													"gender": "Male",
+													"testing": "none",
+													"ofa": "none",
+													"img": "http://www.goodwinshelties.com/refphotos/macdegaglenhartgrandprix.jpg",
+													"pedCount": 1,
+													"bgColor": "#D3F2FC",
+													"dup": "FALSE",
+													"depths": [
+														6
+													],
+													"progeny": [
+														"628",
+														"796",
+														"822",
+														"834",
+														"839",
+														"840",
+														"841",
+														"845",
+														"851",
+														"864",
+														"868",
+														"869",
+														"871",
+														"872",
+														"873",
+														"874",
+														"876",
+														"878",
+														"881"
+													],
+													"children": [
+														{
+															"index": "967",
+															"depth": 7,
+															"kennel": "",
+															"regName": "CH Macdega Maserati ROM",
+															"name": "Macdega Maserati",
+															"callName": "",
+															"sire": "CH Macdega The Piano Man ROM ROMC",
+															"dam": "NBISS CH Macdega One Day At A Time",
+															"color": "Tri Color",
+															"gender": "Male",
+															"testing": "none",
+															"ofa": "none",
+															"img": "http://www.goodwinshelties.com/refphotos/macdegamaserati.jpg",
+															"pedCount": 1,
+															"bgColor": "#D3F2FC",
+															"dup": "FALSE",
+															"depths": [
+																7
+															],
+															"progeny": [
+																"886",
+																"892",
+																"898",
+																"902",
+																"925",
+																"932",
+																"942"
+															],
+															"children": []
+														},
+														{
+															"index": "1247",
+															"depth": 7,
+															"kennel": "",
+															"regName": "Glenhart Ring of Gold",
+															"name": "Glenhart Ring of Gold",
+															"callName": "",
+															"sire": "CH Macdega Canden Coming Home ROMC",
+															"dam": "Glenhart Ring My Belle",
+															"color": "Sable",
+															"gender": "Female",
+															"testing": "none",
+															"ofa": "none",
+															"img": "http://www.goodwinshelties.com/refphotos/glenhartringofgold.jpg",
+															"pedCount": 1,
+															"bgColor": "#D3F2FC",
+															"dup": "FALSE",
+															"depths": [
+																7
+															],
+															"progeny": [
+																"932"
+															],
+															"children": []
+														}
+													]
+												},
+												{
+													"index": "713",
+													"depth": 6,
+													"kennel": "",
+													"regName": "Mystics Ebony Escapade",
+													"name": "Mystics Ebony Escapade",
+													"callName": "",
+													"sire": "CH Country Lane The Energizer ROM ROMC",
+													"dam": "CH Woodbridge Park Place",
+													"color": "Tri Color",
+													"gender": "Female",
+													"testing": "none",
+													"ofa": "none",
+													"img": "http://www.goodwinshelties.com/refphotos/mysticsebonyescapade.jpg",
+													"pedCount": 1,
+													"bgColor": "#D3F2FC",
+													"dup": "FALSE",
+													"depths": [
+														6
+													],
+													"progeny": [
+														"628"
+													],
+													"children": [
+														{
+															"index": "767",
+															"depth": 7,
+															"kennel": "",
+															"regName": "CH Country Lane The Energizer ROM ROMC",
+															"name": "Country Lane The Energizer",
+															"callName": "",
+															"sire": "CH Macdega Deniro ROM",
+															"dam": "Macdega Monterey",
+															"color": "Tri Color",
+															"gender": "Male",
+															"testing": "none",
+															"ofa": "none",
+															"img": "http://www.goodwinshelties.com/refphotos/countrylanetheenergizer.jpg",
+															"pedCount": 2,
+															"bgColor": "#BAEDEE",
+															"dup": "TRUE",
+															"depths": [
+																7
+															],
+															"progeny": [
+																"645",
+																"686",
+																"713",
+																"721",
+																"728",
+																"734",
+																"752"
+															],
+															"children": []
+														},
+														{
+															"index": "785",
+															"depth": 7,
+															"kennel": "",
+															"regName": "CH Woodbridge Park Place",
+															"name": "Woodbridge Park Place",
+															"callName": "",
+															"sire": "CH CanCH Macdega Monopoly",
+															"dam": "CH Woodbridge Contessa",
+															"color": "Sable",
+															"gender": "Female",
+															"testing": "none",
+															"ofa": "none",
+															"img": "http://www.goodwinshelties.com/refphotos/woodbridgeparkplace.jpg",
+															"pedCount": 1,
+															"bgColor": "#D3F2FC",
+															"dup": "FALSE",
+															"depths": [
+																7
+															],
+															"progeny": [
+																"709",
+																"713",
+																"735"
+															],
+															"children": []
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"index": "215",
+									"depth": 4,
+									"kennel": "",
+									"regName": "Parays Prada ROM",
+									"name": "Parays Prada",
+									"callName": "",
+									"sire": "CH Montage Booty Call ROM",
+									"dam": "BIS CH Serenitys Songbird",
+									"color": "Bi Black",
+									"gender": "Female",
+									"testing": "none",
+									"ofa": "none",
+									"img": "http://www.goodwinshelties.com/refphotos/paraysprada.jpg",
+									"pedCount": 1,
+									"bgColor": "#D3F2FC",
+									"dup": "FALSE",
+									"depths": [
+										4
+									],
+									"progeny": [
+										"172"
+									],
+									"children": [
+										{
+											"index": "489",
+											"depth": 5,
+											"kennel": "",
+											"regName": "CH Montage Booty Call ROM",
+											"name": "Montage Booty Call",
+											"callName": "",
+											"sire": "CH Montage Congaree",
+											"dam": "Homewood Heavenly",
+											"color": "Bi Black",
+											"gender": "Male",
+											"testing": "none",
+											"ofa": "none",
+											"img": "http://www.goodwinshelties.com/refphotos/montagebootycall.jpg",
+											"pedCount": 1,
+											"bgColor": "#D3F2FC",
+											"dup": "FALSE",
+											"depths": [
+												5
+											],
+											"progeny": [
+												"215"
+											],
+											"children": [
+												{
+													"index": "627",
+													"depth": 6,
+													"kennel": "",
+													"regName": "CH Montage Congaree",
+													"name": "Montage Congaree",
+													"callName": "",
+													"sire": "CH Akirenes Aramis Bi Barkley ROM ROMC",
+													"dam": "Montage Music Box",
+													"color": "Bi Black",
+													"gender": "Male",
+													"testing": "none",
+													"ofa": "none",
+													"img": "http://www.goodwinshelties.com/refphotos/montagecongaree.jpg",
+													"pedCount": 1,
+													"bgColor": "#D3F2FC",
+													"dup": "FALSE",
+													"depths": [
+														6
+													],
+													"progeny": [
+														"489"
+													],
+													"children": [
+														{
+															"index": "797",
+															"depth": 7,
+															"kennel": "",
+															"regName": "CH Akirenes Aramis Bi Barkley ROM ROMC",
+															"name": "Akirenes Aramis Bi Barkley",
+															"callName": "",
+															"sire": "CH Tall Timber Far Out Frisco ROM ROMC",
+															"dam": "Cameo Black Velvet",
+															"color": "Blue Merle",
+															"gender": "Male",
+															"testing": "none",
+															"ofa": "none",
+															"img": "http://www.goodwinshelties.com/refphotos/akirenesaramisbibarkley.jpg",
+															"pedCount": 3,
+															"bgColor": "#CFCDDE",
+															"dup": "TRUE",
+															"depths": [
+																5,
+																7,
+																6
+															],
+															"progeny": [
+																"553",
+																"557",
+																"591",
+																"627",
+																"685",
+																"687",
+																"689"
+															],
+															"children": []
+														},
+														{
+															"index": "712",
+															"depth": 7,
+															"kennel": "",
+															"regName": "Montage Music Box",
+															"name": "Montage Music Box",
+															"callName": "",
+															"sire": "CH Trevannes Madrid",
+															"dam": "CH Montage Numero Uma",
+															"color": "Tri Color",
+															"gender": "Female",
+															"testing": "none",
+															"ofa": "none",
+															"img": "http://www.goodwinshelties.com/refphotos/montagemusicbox.jpg",
+															"pedCount": 1,
+															"bgColor": "#D3F2FC",
+															"dup": "FALSE",
+															"depths": [
+																7
+															],
+															"progeny": [
+																"627"
+															],
+															"children": []
+														}
+													]
+												},
+												{
+													"index": "551",
+													"depth": 6,
+													"kennel": "",
+													"regName": "Homewood Heavenly",
+													"name": "Homewood Heavenly",
+													"callName": "",
+													"sire": "BIS NBISS BISS CH Homewood Hurricane ROM",
+													"dam": "Hannalore Havana ROM",
+													"color": "Tri Color",
+													"gender": "Female",
+													"testing": "none",
+													"ofa": "none",
+													"img": "http://www.goodwinshelties.com/refphotos/homewoodheavenly.jpg",
+													"pedCount": 1,
+													"bgColor": "#D3F2FC",
+													"dup": "FALSE",
+													"depths": [
+														6
+													],
+													"progeny": [
+														"489"
+													],
+													"children": [
+														{
+															"index": "611",
+															"depth": 7,
+															"kennel": "",
+															"regName": "BIS NBISS BISS CH Homewood Hurricane ROM",
+															"name": "Homewood Hurricane",
+															"callName": "",
+															"sire": "CH Macdega Asterisk ROM ROMC",
+															"dam": "CH Homewood Natalie Cole",
+															"color": "Blue Merle",
+															"gender": "Male",
+															"testing": "none",
+															"ofa": "none",
+															"img": "http://www.goodwinshelties.com/refphotos/homewoodhurricane.jpg",
+															"pedCount": 1,
+															"bgColor": "#D3F2FC",
+															"dup": "FALSE",
+															"depths": [
+																7
+															],
+															"progeny": [
+																"233",
+																"234",
+																"535",
+																"536",
+																"543",
+																"551"
+															],
+															"children": []
+														},
+														{
+															"index": "608",
+															"depth": 7,
+															"kennel": "",
+															"regName": "Hannalore Havana ROM",
+															"name": "Hannalore Havana",
+															"callName": "",
+															"sire": "NBISS CH Dundee Nightline",
+															"dam": "CH Hannalore Tales Of Beth ROM",
+															"color": "Tri Color",
+															"gender": "Female",
+															"testing": "none",
+															"ofa": "none",
+															"img": "http://www.goodwinshelties.com/refphotos/hannalorehavana.jpg",
+															"pedCount": 1,
+															"bgColor": "#D3F2FC",
+															"dup": "FALSE",
+															"depths": [
+																7
+															],
+															"progeny": [
+																"535",
+																"551"
+															],
+															"children": []
+														}
+													]
+												}
+											]
+										},
+										{
+											"index": "284",
+											"depth": 5,
+											"kennel": "",
+											"regName": "BIS CH Serenitys Songbird",
+											"name": "Serenitys Songbird",
+											"callName": "",
+											"sire": "CH Apple Acres Mardi Gras ROM",
+											"dam": "Act I Rosalie ROM",
+											"color": "Blue Merle",
+											"gender": "Female",
+											"testing": "none",
+											"ofa": "none",
+											"img": "http://www.goodwinshelties.com/refphotos/serenityssongbird.jpg",
+											"pedCount": 1,
+											"bgColor": "#D3F2FC",
+											"dup": "FALSE",
+											"depths": [
+												5
+											],
+											"progeny": [
+												"215"
+											],
+											"children": [
+												{
+													"index": "475",
+													"depth": 6,
+													"kennel": "",
+													"regName": "CH Apple Acres Mardi Gras ROM",
+													"name": "Apple Acres Mardi Gras",
+													"callName": "",
+													"sire": "CH Apple Acres Odyssey Armani ROM",
+													"dam": "CH Trevannes Dominique ROM",
+													"color": "Blue Merle",
+													"gender": "Male",
+													"testing": "none",
+													"ofa": "none",
+													"img": "http://www.goodwinshelties.com/refphotos/appleacresmardigras.jpg",
+													"pedCount": 1,
+													"bgColor": "#D3F2FC",
+													"dup": "FALSE",
+													"depths": [
+														6
+													],
+													"progeny": [
+														"151",
+														"263",
+														"284",
+														"299"
+													],
+													"children": [
+														{
+															"index": "695",
+															"depth": 7,
+															"kennel": "",
+															"regName": "CH Apple Acres Odyssey Armani ROM",
+															"name": "Apple Acres Odyssey Armani",
+															"callName": "",
+															"sire": "CH Dundee Hullston Jambalaya ROM",
+															"dam": "CH Apple Acres Hi-Fashion Model ROM",
+															"color": "Bi Black",
+															"gender": "Male",
+															"testing": "none",
+															"ofa": "none",
+															"img": "http://www.goodwinshelties.com/refphotos/appleacresodysseyarmani.jpg",
+															"pedCount": 1,
+															"bgColor": "#D3F2FC",
+															"dup": "FALSE",
+															"depths": [
+																7
+															],
+															"progeny": [
+																"268",
+																"291",
+																"468",
+																"475",
+																"485",
+																"519",
+																"610",
+																"630",
+																"633",
+																"634",
+																"636",
+																"658",
+																"661"
+															],
+															"children": []
+														},
+														{
+															"index": "536",
+															"depth": 7,
+															"kennel": "",
+															"regName": "CH Trevannes Dominique ROM",
+															"name": "Trevannes Dominique",
+															"callName": "",
+															"sire": "BIS NBISS BISS CH Homewood Hurricane ROM",
+															"dam": "CanCH Shadlars Trevannes Trivia",
+															"color": "Blue Merle",
+															"gender": "Female",
+															"testing": "none",
+															"ofa": "none",
+															"img": "http://www.goodwinshelties.com/refphotos/trevannesdominique.jpg",
+															"pedCount": 1,
+															"bgColor": "#D3F2FC",
+															"dup": "FALSE",
+															"depths": [
+																7
+															],
+															"progeny": [
+																"468",
+																"469",
+																"475",
+																"499",
+																"519"
+															],
+															"children": []
+														}
+													]
+												},
+												{
+													"index": "565",
+													"depth": 6,
+													"kennel": "",
+													"regName": "Act I Rosalie ROM",
+													"name": "Act I Rosalie",
+													"callName": "",
+													"sire": "Act I Bi Line",
+													"dam": "Gemstone Just For Fun",
+													"color": "Tri Color",
+													"gender": "Female",
+													"testing": "none",
+													"ofa": "none",
+													"img": "http://www.goodwinshelties.com/refphotos/actirosalie.jpg",
+													"pedCount": 1,
+													"bgColor": "#D3F2FC",
+													"dup": "FALSE",
+													"depths": [
+														6
+													],
+													"progeny": [
+														"284",
+														"299"
+													],
+													"children": [
+														{
+															"index": "674",
+															"depth": 7,
+															"kennel": "",
+															"regName": "Act I Bi Line",
+															"name": "Act I Bi Line",
+															"callName": "",
+															"sire": "CH Macdega Asterisk ROM ROMC",
+															"dam": "Tradewynd Black Orchid O'Pg",
+															"color": "Bi Blue",
+															"gender": "Male",
+															"testing": "none",
+															"ofa": "none",
+															"img": "http://www.goodwinshelties.com/refphotos/actibiline.jpg",
+															"pedCount": 1,
+															"bgColor": "#D3F2FC",
+															"dup": "FALSE",
+															"depths": [
+																7
+															],
+															"progeny": [
+																"565"
+															],
+															"children": []
+														},
+														{
+															"index": "675",
+															"depth": 7,
+															"kennel": "",
+															"regName": "Gemstone Just For Fun",
+															"name": "Gemstone Just For Fun",
+															"callName": "",
+															"sire": "CH Trevannes Windswept ROM ROMC",
+															"dam": "Grandhill Flirtatious",
+															"color": "Tri Color",
+															"gender": "Female",
+															"testing": "none",
+															"ofa": "none",
+															"img": "http://www.goodwinshelties.com/refphotos/gemstonejustforfun.jpg",
+															"pedCount": 1,
+															"bgColor": "#D3F2FC",
+															"dup": "FALSE",
+															"depths": [
+																7
+															],
+															"progeny": [
+																"565"
+															],
+															"children": []
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"index": "127",
+					"depth": 2,
+					"kennel": "",
+					"regName": "CH Felicity Jamaican Me Crazy",
+					"name": "Felicity Jamaican Me Crazy",
+					"callName": "",
+					"sire": "GCH CH Attridge Windy City ROM ROMC",
+					"dam": "Belmarks In The Twilight",
+					"color": "Bi Blue",
+					"gender": "Female",
+					"testing": "none",
+					"ofa": "none",
+					"img": "http://www.goodwinshelties.com/refphotos/felicityjamaicanmecrazy.jpg",
+					"pedCount": 1,
+					"bgColor": "#D3F2FC",
+					"dup": "FALSE",
+					"depths": [
+						2
+					],
+					"progeny": [
+						"95",
+						"107"
+					],
+					"children": [
+						{
+							"index": "259",
+							"depth": 3,
+							"kennel": "",
+							"regName": "GCH CH Attridge Windy City ROM ROMC",
+							"name": "Attridge Windy City",
+							"callName": "",
+							"sire": "CH Trevannes Windswept ROM ROMC",
+							"dam": "CanCH Attridge Pandora",
+							"color": "Tri Color",
+							"gender": "Male",
+							"testing": "none",
+							"ofa": "none",
+							"img": "http://www.goodwinshelties.com/refphotos/attridgewindycity.jpg",
+							"pedCount": 1,
+							"bgColor": "#D3F2FC",
+							"dup": "FALSE",
+							"depths": [
+								3
+							],
+							"progeny": [
+								"127"
+							],
+							"children": [
+								{
+									"index": "907",
+									"depth": 4,
+									"kennel": "",
+									"regName": "CH Trevannes Windswept ROM ROMC",
+									"name": "Trevannes Windswept",
+									"callName": "",
+									"sire": "CH Alfenloch Whirlwind ROM ROMC",
+									"dam": "CanCH Trevannes Blue Heaven",
+									"color": "Tri Color",
+									"gender": "Male",
+									"testing": "none",
+									"ofa": "none",
+									"img": "http://www.goodwinshelties.com/refphotos/trevanneswindswept.jpg",
+									"pedCount": 1,
+									"bgColor": "#D3F2FC",
+									"dup": "FALSE",
+									"depths": [
+										4
+									],
+									"progeny": [
+										"259",
+										"275",
+										"675",
+										"693",
+										"805",
+										"846",
+										"863"
+									],
+									"children": [
+										{
+											"index": "1167",
+											"depth": 5,
+											"kennel": "",
+											"regName": "CH Alfenloch Whirlwind ROM ROMC",
+											"name": "Alfenloch Whirlwind",
+											"callName": "",
+											"sire": "CH Alfenloch Ryan O'Neil ROM ROMC",
+											"dam": "CH Alfenloch Tatum O'Neil",
+											"color": "Tri Color",
+											"gender": "Male",
+											"testing": "none",
+											"ofa": "none",
+											"img": "http://www.goodwinshelties.com/refphotos/alfenlochwhirlwind.jpg",
+											"pedCount": 1,
+											"bgColor": "#D3F2FC",
+											"dup": "FALSE",
+											"depths": [
+												5
+											],
+											"progeny": [
+												"664",
+												"907",
+												"909",
+												"1045",
+												"1107",
+												"1109",
+												"1132",
+												"1150"
+											],
+											"children": []
+										},
+										{
+											"index": "998",
+											"depth": 5,
+											"kennel": "",
+											"regName": "CanCH Trevannes Blue Heaven",
+											"name": "Trevannes Blue Heaven",
+											"callName": "",
+											"sire": "CH Magic Winds Onstage",
+											"dam": "CanCH Trevannes Let It Be Me",
+											"color": "Blue Merle",
+											"gender": "Female",
+											"testing": "none",
+											"ofa": "none",
+											"img": "http://www.goodwinshelties.com/refphotos/trevannesblueheaven.jpg",
+											"pedCount": 1,
+											"bgColor": "#D3F2FC",
+											"dup": "FALSE",
+											"depths": [
+												5
+											],
+											"progeny": [
+												"907",
+												"926"
+											],
+											"children": []
+										}
+									]
+								},
+								{
+									"index": "486",
+									"depth": 4,
+									"kennel": "",
+									"regName": "CanCH Attridge Pandora",
+									"name": "Attridge Pandora",
+									"callName": "",
+									"sire": "CanCH Skywards Versace",
+									"dam": "Attridge Black Brocade",
+									"color": "Bi Black",
+									"gender": "Female",
+									"testing": "none",
+									"ofa": "none",
+									"img": "http://www.goodwinshelties.com/refphotos/attridgepandora.jpg",
+									"pedCount": 1,
+									"bgColor": "#D3F2FC",
+									"dup": "FALSE",
+									"depths": [
+										4
+									],
+									"progeny": [
+										"225",
+										"259",
+										"275"
+									],
+									"children": [
+										{
+											"index": "553",
+											"depth": 5,
+											"kennel": "",
+											"regName": "CanCH Skywards Versace",
+											"name": "Skywards Versace",
+											"callName": "",
+											"sire": "CH Akirenes Aramis Bi Barkley ROM ROMC",
+											"dam": "Skywards Only In My Dreams",
+											"color": "Bi Blue",
+											"gender": "Male",
+											"testing": "none",
+											"ofa": "none",
+											"img": "http://www.goodwinshelties.com/refphotos/skywardsversace.jpg",
+											"pedCount": 1,
+											"bgColor": "#D3F2FC",
+											"dup": "FALSE",
+											"depths": [
+												5
+											],
+											"progeny": [
+												"486"
+											],
+											"children": [
+												{
+													"index": "797",
+													"depth": 6,
+													"kennel": "",
+													"regName": "CH Akirenes Aramis Bi Barkley ROM ROMC",
+													"name": "Akirenes Aramis Bi Barkley",
+													"callName": "",
+													"sire": "CH Tall Timber Far Out Frisco ROM ROMC",
+													"dam": "Cameo Black Velvet",
+													"color": "Blue Merle",
+													"gender": "Male",
+													"testing": "none",
+													"ofa": "none",
+													"img": "http://www.goodwinshelties.com/refphotos/akirenesaramisbibarkley.jpg",
+													"pedCount": 3,
+													"bgColor": "#CFCDDE",
+													"dup": "TRUE",
+													"depths": [
+														5,
+														7,
+														6
+													],
+													"progeny": [
+														"553",
+														"557",
+														"591",
+														"627",
+														"685",
+														"687",
+														"689"
+													],
+													"children": []
+												},
+												{
+													"index": "641",
+													"depth": 6,
+													"kennel": "",
+													"regName": "Skywards Only In My Dreams",
+													"name": "Skywards Only In My Dreams",
+													"callName": "",
+													"sire": "CH Trilight Strike A Clear Note",
+													"dam": "Wynruf What Dreams Are Made Of",
+													"color": "Bi Black",
+													"gender": "Female",
+													"testing": "none",
+													"ofa": "none",
+													"img": "http://www.goodwinshelties.com/refphotos/skywardsonlyinmydreams.jpg",
+													"pedCount": 1,
+													"bgColor": "#D3F2FC",
+													"dup": "FALSE",
+													"depths": [
+														6
+													],
+													"progeny": [
+														"553",
+														"591"
+													],
+													"children": []
+												}
+											]
+										},
+										{
+											"index": "552",
+											"depth": 5,
+											"kennel": "",
+											"regName": "Attridge Black Brocade",
+											"name": "Attridge Black Brocade",
+											"callName": "",
+											"sire": "CanCH Hycrest Windjammer",
+											"dam": "Lacycreek Lilies And Lace",
+											"color": "Tri Color",
+											"gender": "Female",
+											"testing": "none",
+											"ofa": "none",
+											"img": "http://www.goodwinshelties.com/refphotos/attridgeblackbrocade.jpg",
+											"pedCount": 1,
+											"bgColor": "#D3F2FC",
+											"dup": "FALSE",
+											"depths": [
+												5
+											],
+											"progeny": [
+												"486"
+											],
+											"children": [
+												{
+													"index": "846",
+													"depth": 6,
+													"kennel": "",
+													"regName": "CanCH Hycrest Windjammer",
+													"name": "Hycrest Windjammer",
+													"callName": "",
+													"sire": "CH Trevannes Windswept ROM ROMC",
+													"dam": "Wynwards Gypsy Fire ROMC",
+													"color": "Sable",
+													"gender": "Male",
+													"testing": "none",
+													"ofa": "none",
+													"img": "http://www.goodwinshelties.com/refphotos/hycrestwindjammer.jpg",
+													"pedCount": 1,
+													"bgColor": "#D3F2FC",
+													"dup": "FALSE",
+													"depths": [
+														6
+													],
+													"progeny": [
+														"552"
+													],
+													"children": []
+												},
+												{
+													"index": "631",
+													"depth": 6,
+													"kennel": "",
+													"regName": "Lacycreek Lilies And Lace",
+													"name": "Lacycreek Lilies And Lace",
+													"callName": "",
+													"sire": "CH Springmist Valiant O Sundial",
+													"dam": "Lacycreek Whistling Dixie",
+													"color": "Tri Color",
+													"gender": "Female",
+													"testing": "none",
+													"ofa": "none",
+													"img": "http://www.goodwinshelties.com/refphotos/lacycreekliliesandlace.jpg",
+													"pedCount": 1,
+													"bgColor": "#D3F2FC",
+													"dup": "FALSE",
+													"depths": [
+														6
+													],
+													"progeny": [
+														"552"
+													],
+													"children": []
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"index": "138",
+							"depth": 3,
+							"kennel": "",
+							"regName": "Belmarks In The Twilight",
+							"name": "Belmarks In The Twilight",
+							"callName": "",
+							"sire": "CH Belmark Lo And Behold ROM ROMC",
+							"dam": "Belmark Glamour Girl",
+							"color": "Bi Blue",
+							"gender": "Female",
+							"testing": "none",
+							"ofa": "none",
+							"img": "http://www.goodwinshelties.com/refphotos/belmarksinthetwilight.jpg",
+							"pedCount": 1,
+							"bgColor": "#D3F2FC",
+							"dup": "FALSE",
+							"depths": [
+								3
+							],
+							"progeny": [
+								"127"
+							],
+							"children": [
+								{
+									"index": "203",
+									"depth": 4,
+									"kennel": "",
+									"regName": "CH Belmark Lo And Behold ROM ROMC",
+									"name": "Belmark Lo And Behold",
+									"callName": "",
+									"sire": "BISS CH Bach Belmark On Canvas CGC",
+									"dam": "Karmix Third Watch",
+									"color": "Bi Black",
+									"gender": "Male",
+									"testing": "none",
+									"ofa": "none",
+									"img": "http://www.goodwinshelties.com/refphotos/belmarkloandbehold.jpg",
+									"pedCount": 2,
+									"bgColor": "#CBFDEA",
+									"dup": "TRUE",
+									"depths": [
+										2,
+										4
+									],
+									"progeny": [
+										"71",
+										"98",
+										"138",
+										"157",
+										"160",
+										"161",
+										"169"
+									],
+									"children": [
+										{
+											"index": "586",
+											"depth": 5,
+											"kennel": "",
+											"regName": "BISS CH Bach Belmark On Canvas CGC",
+											"name": "Bach Belmark On Canvas",
+											"callName": "",
+											"sire": "Brecon Oak Crest Jet Black",
+											"dam": "Skywards Passionate Kisses",
+											"color": "Tri Color",
+											"gender": "Male",
+											"testing": "none",
+											"ofa": "none",
+											"img": "http://www.goodwinshelties.com/refphotos/bachbelmarkoncanvas.jpg",
+											"pedCount": 2,
+											"bgColor": "#AAFEDC",
+											"dup": "TRUE",
+											"depths": [
+												3,
+												5
+											],
+											"progeny": [
+												"203",
+												"252",
+												"267",
+												"309"
+											],
+											"children": [
+												{
+													"index": "793",
+													"depth": 6,
+													"kennel": "",
+													"regName": "Brecon Oak Crest Jet Black",
+													"name": "Brecon Oak Crest Jet Black",
+													"callName": "",
+													"sire": "CH Macdega Deniro ROM",
+													"dam": "Brecon In Basic Black",
+													"color": "Bi Black",
+													"gender": "Male",
+													"testing": "none",
+													"ofa": "none",
+													"img": "http://www.goodwinshelties.com/refphotos/breconoakcrestjetblack.jpg",
+													"pedCount": 2,
+													"bgColor": "#ABFCAD",
+													"dup": "TRUE",
+													"depths": [
+														4,
+														6
+													],
+													"progeny": [
+														"586",
+														"587",
+														"714"
+													],
+													"children": []
+												},
+												{
+													"index": "640",
+													"depth": 6,
+													"kennel": "",
+													"regName": "Skywards Passionate Kisses",
+													"name": "Skywards Passionate Kisses",
+													"callName": "",
+													"sire": "CH Skywards Dreams Of Passion",
+													"dam": "Our Highland Heather",
+													"color": "Blue Merle",
+													"gender": "Female",
+													"testing": "none",
+													"ofa": "none",
+													"img": "http://www.goodwinshelties.com/refphotos/skywardspassionatekisses.jpg",
+													"pedCount": 2,
+													"bgColor": "#CBBAAF",
+													"dup": "TRUE",
+													"depths": [
+														4,
+														6
+													],
+													"progeny": [
+														"586"
+													],
+													"children": []
+												}
+											]
+										},
+										{
+											"index": "250",
+											"depth": 5,
+											"kennel": "",
+											"regName": "Karmix Third Watch",
+											"name": "Karmix Third Watch",
+											"callName": "",
+											"sire": "CH Willow Coves Bluesman",
+											"dam": "Kyrie Drops Of Jupiter",
+											"color": "Tri Color",
+											"gender": "Female",
+											"testing": "none",
+											"ofa": "none",
+											"img": "http://www.goodwinshelties.com/refphotos/karmixthirdwatch.jpg",
+											"pedCount": 2,
+											"bgColor": "#EADFFB",
+											"dup": "TRUE",
+											"depths": [
+												3,
+												5
+											],
+											"progeny": [
+												"203"
+											],
+											"children": [
+												{
+													"index": "319",
+													"depth": 6,
+													"kennel": "",
+													"regName": "CH Willow Coves Bluesman",
+													"name": "Willow Coves Bluesman",
+													"callName": "",
+													"sire": "BIS NBISS BISS CH Shadow Hills Air Force One OA OAJ",
+													"dam": "Willow Coves Revelation",
+													"color": "Bi Blue",
+													"gender": "Male",
+													"testing": "none",
+													"ofa": "none",
+													"img": "http://www.goodwinshelties.com/refphotos/willowcovesbluesman.jpg",
+													"pedCount": 2,
+													"bgColor": "#FBDFFC",
+													"dup": "TRUE",
+													"depths": [
+														4,
+														6
+													],
+													"progeny": [
+														"219",
+														"227",
+														"232",
+														"250",
+														"256"
+													],
+													"children": []
+												},
+												{
+													"index": "265",
+													"depth": 6,
+													"kennel": "",
+													"regName": "Kyrie Drops Of Jupiter",
+													"name": "Kyrie Drops Of Jupiter",
+													"callName": "",
+													"sire": "CH Kyrie Chasing History",
+													"dam": "Odyssey Among The Clouds",
+													"color": "Tri Color",
+													"gender": "Female",
+													"testing": "none",
+													"ofa": "none",
+													"img": "http://www.goodwinshelties.com/refphotos/kyriedropsofjupiter.jpg",
+													"pedCount": 2,
+													"bgColor": "#FFDFCB",
+													"dup": "TRUE",
+													"depths": [
+														4,
+														6
+													],
+													"progeny": [
+														"250"
+													],
+													"children": []
+												}
+											]
+										}
+									]
+								},
+								{
+									"index": "518",
+									"depth": 4,
+									"kennel": "",
+									"regName": "Belmark Glamour Girl",
+									"name": "Belmark Glamour Girl",
+									"callName": "",
+									"sire": "CH Oak Crest Bach GI Joe",
+									"dam": "UkcCH Kyrie The Games We Play",
+									"color": "Blue Merle",
+									"gender": "Female",
+									"testing": "none",
+									"ofa": "none",
+									"img": "http://www.goodwinshelties.com/refphotos/belmarkglamourgirl.jpg",
+									"pedCount": 1,
+									"bgColor": "#D3F2FC",
+									"dup": "FALSE",
+									"depths": [
+										4
+									],
+									"progeny": [
+										"138",
+										"266",
+										"267"
+									],
+									"children": [
+										{
+											"index": "638",
+											"depth": 5,
+											"kennel": "",
+											"regName": "CH Oak Crest Bach GI Joe",
+											"name": "Oak Crest Bach GI Joe",
+											"callName": "",
+											"sire": "CH Tall Timber Tom Terrific",
+											"dam": "Oak Crests Black Brat",
+											"color": "Blue Merle",
+											"gender": "Male",
+											"testing": "none",
+											"ofa": "none",
+											"img": "http://www.goodwinshelties.com/refphotos/oakcrestbachgijoe.jpg",
+											"pedCount": 1,
+											"bgColor": "#D3F2FC",
+											"dup": "FALSE",
+											"depths": [
+												5
+											],
+											"progeny": [
+												"518",
+												"585"
+											],
+											"children": [
+												{
+													"index": "795",
+													"depth": 6,
+													"kennel": "",
+													"regName": "CH Tall Timber Tom Terrific",
+													"name": "Tall Timber Tom Terrific",
+													"callName": "",
+													"sire": "CH Tall Timber Far Out Frisco ROM ROMC",
+													"dam": "Tall Timber Barefoot Contessa",
+													"color": "Blue Merle",
+													"gender": "Male",
+													"testing": "none",
+													"ofa": "none",
+													"img": "http://www.goodwinshelties.com/refphotos/talltimbertomterrific.jpg",
+													"pedCount": 2,
+													"bgColor": "#EABCFE",
+													"dup": "TRUE",
+													"depths": [
+														4,
+														6
+													],
+													"progeny": [
+														"609",
+														"638",
+														"660",
+														"719"
+													],
+													"children": []
+												},
+												{
+													"index": "714",
+													"depth": 6,
+													"kennel": "",
+													"regName": "Oak Crests Black Brat",
+													"name": "Oak Crests Black Brat",
+													"callName": "",
+													"sire": "Brecon Oak Crest Jet Black",
+													"dam": "Oak Crest Vision In Blue",
+													"color": "Bi Black",
+													"gender": "Female",
+													"testing": "none",
+													"ofa": "none",
+													"img": "http://www.goodwinshelties.com/refphotos/oakcrestsblackbrat.jpg",
+													"pedCount": 2,
+													"bgColor": "#DCDAEA",
+													"dup": "TRUE",
+													"depths": [
+														4,
+														6
+													],
+													"progeny": [
+														"609",
+														"638",
+														"660"
+													],
+													"children": []
+												}
+											]
+										},
+										{
+											"index": "590",
+											"depth": 5,
+											"kennel": "",
+											"regName": "UkcCH Kyrie The Games We Play",
+											"name": "Kyrie The Games We Play",
+											"callName": "",
+											"sire": "CH Odyssey Games Of The Heart",
+											"dam": "Kyrie Skyward Taylor Made",
+											"color": "Tri Color",
+											"gender": "Female",
+											"testing": "none",
+											"ofa": "none",
+											"img": "http://www.goodwinshelties.com/refphotos/kyriethegamesweplay.jpg",
+											"pedCount": 1,
+											"bgColor": "#D3F2FC",
+											"dup": "FALSE",
+											"depths": [
+												5
+											],
+											"progeny": [
+												"518"
+											],
+											"children": [
+												{
+													"index": "614",
+													"depth": 6,
+													"kennel": "",
+													"regName": "CH Odyssey Games Of The Heart",
+													"name": "Odyssey Games Of The Heart",
+													"callName": "",
+													"sire": "CH Odyssey Played to Perfection",
+													"dam": "CH Odyssey Karmun In My Heart",
+													"color": "Tri Color",
+													"gender": "Male",
+													"testing": "none",
+													"ofa": "none",
+													"img": "http://www.goodwinshelties.com/refphotos/odysseygamesoftheheart.jpg",
+													"pedCount": 1,
+													"bgColor": "#D3F2FC",
+													"dup": "FALSE",
+													"depths": [
+														6
+													],
+													"progeny": [
+														"590"
+													],
+													"children": []
+												},
+												{
+													"index": "699",
+													"depth": 6,
+													"kennel": "",
+													"regName": "Kyrie Skyward Taylor Made",
+													"name": "Kyrie Skyward Taylor Made",
+													"callName": "",
+													"sire": "Tall Timber Out Of Sight",
+													"dam": "CH Chaminade Take My Breath Away",
+													"color": "Blue Merle",
+													"gender": "Female",
+													"testing": "none",
+													"ofa": "none",
+													"img": "http://www.goodwinshelties.com/refphotos/kyrieskywardtaylormade.jpg",
+													"pedCount": 1,
+													"bgColor": "#D3F2FC",
+													"dup": "FALSE",
+													"depths": [
+														6
+													],
+													"progeny": [
+														"590"
+													],
+													"children": []
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
